@@ -7,7 +7,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.29.0
 	github.com/gofiber/jwt/v3 v3.2.8
 	github.com/gofiber/websocket/v2 v2.0.18
-	github.com/golang-jwt/jwt/v4 v4.4.0
+	github.com/golang-jwt/jwt/v4 v4.4.2
 	github.com/google/uuid v1.3.0
 	gorm.io/driver/postgres v1.3.1
 	gorm.io/gorm v1.23.3
