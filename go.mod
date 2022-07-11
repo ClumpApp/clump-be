@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/alexedwards/argon2id v0.0.0-20211130144151-3585854a6387
-	github.com/gofiber/fiber/v2 v2.29.0
+	github.com/gofiber/fiber/v2 v2.35.0
 	github.com/gofiber/jwt/v3 v3.2.8
 	github.com/gofiber/websocket/v2 v2.0.18
 	github.com/golang-jwt/jwt/v4 v4.4.0
@@ -29,7 +29,7 @@ require (
 	github.com/klauspost/compress v1.15.1 // indirect
 	github.com/savsgio/gotils v0.0.0-20220201163454-d252f0a44d5b // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.34.0 // indirect
+	github.com/valyala/fasthttp v1.38.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd // indirect
 	golang.org/x/sys v0.0.0-20220318055525-2edf467146b5 // indirect
